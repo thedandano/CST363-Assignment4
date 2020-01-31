@@ -23,7 +23,7 @@ public class CitySearch extends HttpServlet {
 	
 	//Database Credentials
 	static final String USER = "root";
-	static final String PASS = "@DevDan2020";
+	static final String PASS = //removed password
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 		throws ServletException, IOException {
