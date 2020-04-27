@@ -1,5 +1,3 @@
-/build/
-.project
-.settings
+.settings/
 .classpath
-/WebContent/META-INF
+.project
