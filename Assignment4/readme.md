@@ -10,7 +10,7 @@
     * https://www.eclipse.org/downloads/packages/release/2019-06/r/eclipse-ideenterprise-java-developers
 
 ## To Run
-* Run mySQL script to build DB
+* Run mySQL script to build DB (Will add file soon)
 * Add your DB password to the .JAVA (in the src\cst363 folder) files
 * Start your Tomcat Server
 * Run the html pages
