@@ -11,7 +11,7 @@
 
 ## To Run
 * Run mySQL script to build DB
-    *[world.sql](../database_build_files/world.sql)
+    * [world.sql](../database_build_files/world.sql)
 * Add your DB password to the .JAVA (in the src\cst363 folder) files
 * Start your Tomcat Server
 * Run the html pages
