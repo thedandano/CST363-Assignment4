@@ -1,7 +1,7 @@
 # Assignment 3
 SQL statements for chapters 6-7 of Murach's MySQL 3rd Edition
-    * Chapter 6 # 1-7
-    * Chapter 7 # 1-8
+* Chapter 6 # 1-7
+* Chapter 7 # 1-8
 
 # To Run
 * Create AP Database using orientation_setup.sql
